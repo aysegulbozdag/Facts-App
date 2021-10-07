@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/keleb/AndroidStudioProjects/RandomFacts/app/src/main/res/drawable/ic_baseline_bookmark_border_24.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/keleb/AndroidStudioProjects/RandomFacts/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.20833333333333334" />
         <entry key="..\:/Users/keleb/AndroidStudioProjects/RandomFacts/app/src/main/res/drawable/ic_baseline_nights_stay_24.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/keleb/AndroidStudioProjects/RandomFacts/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.20833333333333334" />
         <entry key="..\:/Users/keleb/AndroidStudioProjects/RandomFacts/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/keleb/AndroidStudioProjects/RandomFacts/app/src/main/res/layout/fragment_bookmark.xml" value="0.33" />
         <entry key="..\:/Users/keleb/AndroidStudioProjects/RandomFacts/app/src/main/res/layout/fragment_home.xml" value="0.178125" />

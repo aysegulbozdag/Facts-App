@@ -43,9 +43,9 @@
         android:id="@+id/bottomNavigationView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@color/design_default_color_primary"
-        app:itemIconTint="@color/white"
-        app:itemTextColor="@color/white"
+        android:background="@color/white"
+        app:itemIconTint="#60CBC2"
+        app:itemTextColor="#60CBC2"
         app:layout_constraintBottom_toBottomOf="@+id/fl"
         app:layout_constraintStart_toStartOf="@+id/fl"
         app:menu="@menu/nav_menu" />
